@@ -1,46 +1,46 @@
 # PyBer_Analysis
 
 ## Overview
-V. Isualise has tasked us with finding the summary DataFrame of PyBer's ride-sharing data by city type, along with the total weekly fares for each city type. The purpose for finding the summary by city type is to be able to compare the total amount of: rides, drivers, fares, average fare per ride, and average per driver by Urban ,Suburban and Rural cities. Comparing these series of data will give us a better understanding of how the metrics of each city type compare to each other. The later part of the analysis, comparing the weekly fare amount by city type, will give us a better in depth look at the differences between city type.
+  V. Isualise has tasked us with finding the summary DataFrame of PyBer's ride-sharing data by city type, along with the total weekly fares for each city type. The purpose for finding the summary by city type is to be able to compare the total amount of: rides, drivers, fares, average fare per ride, and average per driver by Urban ,Suburban and Rural cities. Comparing these series of data will give us a better understanding of how the metrics of each city type compare to each other. The later part of the analysis, comparing the weekly fare amount by city type, will give us a better in depth look at the differences between city type.
 
 ## Results
 
-From the DataFrame seen below, we can see that the relationship between city type, total rides and total amount of drivers and total fares has a direct positive correlation based on how urban the city is. Urban cities have the highest amount of rides drivers and fare totals. 
+  From the DataFrame seen below, we can see that the relationship between city type, total rides and total amount of drivers and total fares has a direct positive correlation based on how urban the city is. Urban cities have the highest amount of rides drivers and fare totals. 
 
 ### Urban Cities
 
-Urban cities, have the most amount of drivers, rides and fares, bring the most amount in terms of revenue at $39,854.38. Although this is the case in total revenue the average fare per ride is $5 to almost $10 dollars less than its suburban and rural counterparts. This is most likely linked to urban rides being a shorter amount of distance. As well, urban drivers see the lowest average fare per driver at $16.57.
+  Urban cities, have the most amount of drivers, rides and fares, bring the most amount in terms of revenue at $39,854.38. Although this is the case in total revenue the average fare per ride is $5 to almost $10 dollars less than its suburban and rural counterparts. This is most likely linked to urban rides being a shorter amount of distance. As well, urban drivers see the lowest average fare per driver at $16.57.
 
 ### Suburban Cities
 
-Suburban cities in our DataFrame sit in the middle when compared to urban and rural cities. Similarly to rural cities the amount of drivers, 490, is below the amount of rides at 625. The sum of the faresin suburban cities is $19,356 roughly $20,000 less than urban cities.
+  Suburban cities in our DataFrame sit in the middle when compared to urban and rural cities. Similarly to rural cities the amount of drivers, 490, is below the amount of rides at 625. The sum of the faresin suburban cities is $19,356 roughly $20,000 less than urban cities.
 
 ### Rural Cities
 
-Rural cities out of the DataFrame show some of the lowest numbers in all collumns aside from the average fare per driver, $55.49, being the highest out of all the city types. Rural cities have the highest average fare per ride also at $34.62.
+  Rural cities out of the DataFrame show some of the lowest numbers in all collumns aside from the average fare per driver, $55.49, being the highest out of all the city types. Rural cities have the highest average fare per ride also at $34.62.
 
 ![Screen Shot 2022-07-15 at 4 03 13 AM](https://user-images.githubusercontent.com/107080237/179191624-c84284d3-89ce-4d68-a50f-1e7c7256bbef.png)
 
 
 ## Total Fare By City type 
 
-In the line graph below, showing the total fares by city type between January 2019 through to April 2019. we can see similar, but no direct trends between all three city types.
+  In the line graph below, showing the total fares by city type between January 2019 through to April 2019. we can see similar, but no direct trends between all three city types.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/107080237/179191267-3f358f22-58d2-4cbe-85cc-93629334fcea.png)
 
 
 ## Summary
 
-From our analysis we can see a direct correlation to rides, drivers and fares by city type. Urban areas have the most in those three category's, while rural has the least. However we do have an inverse correlation with average fare per ride and the average fare per driver. Urban drivers receive much less than suburban and rural drivers. This appears to be due to the amount of drivers outpacing the demand of rides in urban cities.
+  From our analysis we can see a direct correlation to rides, drivers and fares by city type. Urban areas have the most in those three category's, while rural has the least. However we do have an inverse correlation with average fare per ride and the average fare per driver. Urban drivers receive much less than suburban and rural drivers. This appears to be due to the amount of drivers outpacing the demand of rides in urban cities.
 
 Some recommendations stemming from the results in our analysis may include: 
 
-Post ride-share hiring ads aimed at suburban and rural cities to increase the amount of drivers in areas that the amount of rides is above the total amount of drivers. 
+* Post ride-share hiring ads aimed at suburban and rural cities to increase the amount of drivers in areas that the   amount of rides is above the total amount of drivers. 
 
 
-Increase payouts for rides to urban drivers to bring up the average fare per driver for urban drivers. 
+* Increase payouts for rides to urban drivers to bring up the average fare per driver for urban drivers. 
 
-Run promotions for the month of January for urban cities, and February and March for suburban and rural to increase weekly revenues for that time of the year for each.
+* Run promotions for the month of January for urban cities, and February and March for suburban and rural to increase weekly revenues for that time of the year for each.
 
 
 
