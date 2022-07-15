@@ -19,14 +19,14 @@ Suburban cities in our DataFrame sit in the middle when compared to urban and ru
 
 Rural cities out of the DataFrame show some of the lowest numbers in all collumns aside from the average fare per driver, $55.49, being the highest out of all the city types. Rural cities have the highest average fare per ride also at $34.62.
 
-/var/folders/0v/f_28h6x52xbgcmj9b1p4x_880000gn/T/TemporaryItems/NSIRD_screencaptureui_NrqNYZ/Screen Shot 2022-07-15 at 12.04.25 AM.png
 
 
 ## Total Fare By City type 
 
 In the line graph below, showing the total fares by city type between January 2019 through to April 2019. we can see similar, but no direct trends between all three city types.
 
-/Users/jacobsandoval/Desktop/Data Analysis Classwork/pyber_analysis/PyBer_Analysis/analysis/PyBer_fare_summary.png
+![PyBer_fare_summary](https://user-images.githubusercontent.com/107080237/179191267-3f358f22-58d2-4cbe-85cc-93629334fcea.png)
+
 
 ## Summary
 
